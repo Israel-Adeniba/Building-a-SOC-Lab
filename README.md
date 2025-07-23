@@ -95,21 +95,23 @@ Summary:  <br/>
 
 
 
- Start SOC 101- Windows 11 VM on VirtualBox:  <br/>
+ Start/Launch SOC 101- Windows 11 VM on VirtualBox:  <br/>
 <img src="https://imgur.com/WYjcgG1.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
 
-Complete installation and Setup process:  <br/>
-<img src="https://i.imgur.com/4bxraNc.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+Complete installation and Setup process, it's self explanatory:  <br/>
+<img src="https://i.imgur.com/synIG5L.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
- Select "Domain join instead" for Windows 10 2025 and complete installation :  <br/>
-<img src="https://i.imgur.com/wci3Jgk.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<img src="https://i.imgur.com/UmUgbqK.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
-Window 10 Enterprise Running:  <br/>
-<img src="https://i.imgur.com/vkrmAvn.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<img src="https://i.imgur.com/kL6kLt2.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+Window 11 Enterprise Running:  <br/>
+<img src="https://i.imgur.com/mgjHrrZ.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
 
