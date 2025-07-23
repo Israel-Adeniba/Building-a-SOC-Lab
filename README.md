@@ -96,23 +96,20 @@ Summary:  <br/>
 
 
  Start SOC 101- Windows 11 VM on VirtualBox:  <br/>
-<img src="https://imgur.com/AMPeSQ9.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/WYjcgG1.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
- Select the downloaded Windows 10 file (19045.2006.220908-0225.22h2_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_en-us.iso) when prompted. Click "Mount and Retry Boot"  <br/>
-<img src="https://imgur.com/GKX43gN.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
-<br />
-<br />
+
 Complete installation and Setup process:  <br/>
-<img src="https://i.imgur.com/4bxraNc.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://i.imgur.com/4bxraNc.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
  Select "Domain join instead" for Windows 10 2025 and complete installation :  <br/>
-<img src="https://i.imgur.com/wci3Jgk.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://i.imgur.com/wci3Jgk.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
 Window 10 Enterprise Running:  <br/>
-<img src="https://i.imgur.com/vkrmAvn.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://i.imgur.com/vkrmAvn.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
 
@@ -120,13 +117,13 @@ Window 10 Enterprise Running:  <br/>
 <h2>Phase 3: Connecting the Virtual Network </h2>
 
  To get the ip address of the Klilinux Virtual Machine, run the command "ifconfig" in the Terminal Emulator on the Kali linux VM.
-<img src="https://imgur.com/vY0TufN.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/vY0TufN.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br/>
 <br/>
 To get the ip address of the Windows 10 VM and Windows Server, run the command "ipconfig" in the Command prompt terminal on the respective machines.
 <br/>
-<img src="https://imgur.com/snTV5Aj.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
-<img src="https://imgur.com/kL0YA3p.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/snTV5Aj.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<img src="https://imgur.com/kL0YA3p.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br/>
 <br/>
 
