@@ -42,24 +42,24 @@ Nota bene: I strongly recommend creating a new folder to store the downloaded fi
 
 Download VirtualBox: <br/>
  Click on the corresponding operating system you have; there are options for MacOS, Windows, Linux and Solaris.
-<img src="https://imgur.com/1w7qPhN.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/1w7qPhN.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
  Downloaded file:  <br/>
-<img src="https://imgur.com/oG77khJ.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/oG77khJ.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
 
 Dowload Windows 11 Enterprise: Select the ISO file <br/>
-<img src="https://imgur.com/PUUAdt2.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/PUUAdt2.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
 Select the corresponding ISO Enterprise download:  <br/>
-<img src="https://imgur.com/hf47L4A.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/hf47L4A.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
 Downloaded file:  <br/>
-<img src="https://imgur.com/Mykh22Q.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/Mykh22Q.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
 
@@ -68,26 +68,34 @@ Downloaded file:  <br/>
  <h2>Phase 2: Setup and installation </h2> <p align="center">
  
  Install and open VirtualBox:  <br/>
-<img src="https://imgur.com/pN8fwY0.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/pN8fwY0.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
 Set-up Windows 11 Enterprise; <br />
 Click New in VirtualBox <br />
 Fill name: SOC 101- Windows 11 VM <br />
 Add the destination folder, ISO Image, Edition: Windows 11 Enterprise Evaluation (10.0.26100.1742 / x64 / en-US) <br/>
-<img src="https://i.imgur.com/KgJtmj9.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://i.imgur.com/KgJtmj9.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
- For the hardware, we selected 6GB and 2 CPUs:  <br/>
+ For the hardware (RAM), we selected 6GB and 2 CPUs:  <br/>
  Minimum RAM requirement for Windows 11 is 4 GB. <br/>
-<img src="https://i.imgur.com/KJT9QKu.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://i.imgur.com/KJT9QKu.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
- Select the file location, choose VirtualBox Disk Image (VDI) as it can only be used by VirtualBox. Finish setup :  <br/>
-<img src="https://i.imgur.com/5PK7F5k.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+ For the HARD DISK, we choose 70GB and 2 CPUs:  <br/>
+ HARD DISK requires 64 GB or larger storage device for Windows 11: <br/>
+<img src="https://i.imgur.com/YKTGF2t.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
- Start Windows 10 2025 on VirtualBox:  <br/>
+Summary:  <br/>
+<img src="https://imgur.com/38ojK9W.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+
+
+
+ Start SOC 101- Windows 11 VM on VirtualBox:  <br/>
 <img src="https://imgur.com/AMPeSQ9.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
