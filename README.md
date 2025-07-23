@@ -73,13 +73,14 @@ Downloaded file:  <br/>
 <br />
 Set-up Windows 11 Enterprise; <br />
 Click New in VirtualBox <br />
-Fill name: Windows 10 2025 <br />
-Add a destination folder, Type: Microsoft Windows, Version: Windows 10 (64-bit) :  <br/>
-<img src="https://i.imgur.com/pqgcl6Q.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+Fill name: SOC 101- Windows 11 VM <br />
+Add the destination folder, ISO Image, Edition: Windows 11 Enterprise Evaluation (10.0.26100.1742 / x64 / en-US) <br/>
+<img src="https://i.imgur.com/KgJtmj9.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
- For the hardware, we selected 2MB and 1 CPU:  <br/>
-<img src="https://i.imgur.com/PHwrE6Q.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+ For the hardware, we selected 6GB and 2 CPUs:  <br/>
+ Minimum RAM requirement for Windows 11 is 4 GB. <br/>
+<img src="https://i.imgur.com/KJT9QKu.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
  Select the file location, choose VirtualBox Disk Image (VDI) as it can only be used by VirtualBox. Finish setup :  <br/>
