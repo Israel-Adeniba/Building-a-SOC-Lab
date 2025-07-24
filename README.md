@@ -132,7 +132,7 @@ Window 11 Enterprise Running:  <br/>
 
 
 Set-up Ubuntu Linux <br />
-Clic-k New in VirtualBox <br />
+Click New in VirtualBox <br />
 Fill name: SOC 101- Ubuntu <br />
 Add the destination folder and ISO Image <br/>
 <img src="https://i.imgur.com/fIp0aKa.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
@@ -155,18 +155,7 @@ Start/Launch SOC 101- Ubuntu on VirtualBox:  <br/>
 <img src="https://imgur.com/5K4ttUP.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
-
-
 Complete installation and Setup process, it's self explanatory:  <br/>
-<img src="https://i.imgur.com/synIG5L.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/UmUgbqK.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/kL6kLt2.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
-<br />
-<br />
 Window 11 Enterprise Running:  <br/>
 <img src="https://i.imgur.com/nl5WH8v.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
