@@ -40,6 +40,7 @@ Nota bene: I strongly recommend creating a new folder to store the downloaded fi
 2. Set-up and install programs
 3. Connecting the Virtual Network; Network environment setup, connecting all devices and the particular network connection established.
 
+
    
 <h2>Phase 1: Download Utilities and Environment </h2>
 
@@ -81,8 +82,6 @@ Downloaded file:  <br/>
 
 
 
-
-
 <h2>Phase 2: Setup and installation </h2> <p align="center">
  
  Install and open VirtualBox:  <br/>
@@ -110,6 +109,15 @@ Summary:  <br/>
 <img src="https://imgur.com/38ojK9W.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
+Setup Ubuntu Linux <br />
+Click New in VirtualBox <br />
+Fill name: SOC 101- Ubuntu <br />
+Add the destination folder and ISO Image <br/>
+<img src="https://i.imgur.com/fIp0aKa.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+
+
 
 
 
