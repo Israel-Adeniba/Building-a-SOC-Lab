@@ -30,7 +30,10 @@ This project aims to build a practical, hands-on SOC lab environment focused on 
   Oracle VirtualBox is a type 2 software-based hypervisor
 
 - Windows 11 Enterprise
-[[https://www.microsoft.com/en-us/evalcenter/download-windows-11-enterprise]
+  [https://www.microsoft.com/en-us/evalcenter/download-windows-11-enterprise]
+
+- Ubuntu Linux 
+[https://ubuntu.com/download]
 
 Nota bene: I strongly recommend creating a new folder to store the downloaded files. 
 
@@ -50,7 +53,7 @@ Download VirtualBox: <br/>
 <br />
 <br />
 
-Dowload Windows 11 Enterprise: Select the ISO file <br/>
+Download Windows 11 Enterprise: Select the ISO file <br/>
 <img src="https://imgur.com/PUUAdt2.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
@@ -63,9 +66,24 @@ Downloaded file:  <br/>
 <br />
 <br />
 
- 
+Download Ubuntu Desktop to have the GUI
+<img src="https://imgur.com/lfi9eit.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br /> 
+Select any of the Long Term Support (LTS) version
+<img src="https://imgur.com/NkGWAtP.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br /> 
+Downloaded file:  <br/>
+<img src="https://imgur.com/F0rwJU3.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
 
- <h2>Phase 2: Setup and installation </h2> <p align="center">
+
+
+
+
+<h2>Phase 2: Setup and installation </h2> <p align="center">
  
  Install and open VirtualBox:  <br/>
 <img src="https://imgur.com/pN8fwY0.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
