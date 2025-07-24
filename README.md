@@ -156,7 +156,30 @@ Start/Launch SOC 101- Ubuntu on VirtualBox:  <br/>
 <br />
 <br />
 Complete installation and Setup process, it's self explanatory:  <br/>
-Window 11 Enterprise Running:  <br/>
+<img src="https://i.imgur.com/I37ku7a.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/eQUUd0k.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/8ArJA2M.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/ru6r4Nn.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/8ArJA2M.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+
+
+
+
+
+
+
+
+Ubuntu Linux is Running:  <br/>
 <img src="https://i.imgur.com/nl5WH8v.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
