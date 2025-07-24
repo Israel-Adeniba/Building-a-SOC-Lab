@@ -100,7 +100,7 @@ Add the destination folder, ISO Image, Edition: Windows 11 Enterprise Evaluation
 <img src="https://i.imgur.com/KJT9QKu.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
- For the HARD DISK, we choose 70GB and 2 CPUs:  <br/>
+ For the HARD DISK, we choose 70GB:  <br/>
  HARD DISK requires 64 GB or larger storage device for Windows 11: <br/>
 <img src="https://i.imgur.com/YKTGF2t.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
@@ -116,6 +116,20 @@ Add the destination folder and ISO Image <br/>
 <img src="https://i.imgur.com/fIp0aKa.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
+ For the hardware (RAM), we would maintain same configuration as the Windows machine; 6GB and 2 CPUs:  <br/>
+<img src="https://i.imgur.com/KJT9QKu.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+ For the HARD DISK,we would maintain same configuration as the Windows machine; 70GB:  <br/>
+<img src="https://i.imgur.com/YKTGF2t.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+Summary:  <br/>
+<img src="https://imgur.com/lBqClH4.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+
+
 
 
 
