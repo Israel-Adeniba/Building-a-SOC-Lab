@@ -178,41 +178,4 @@ Ubuntu Linux is Running:  <br/>
 
 
 
-
-
-
-
-
-
-<h2>Phase 3: Connecting the Virtual Network </h2>
-
- To get the ip address of the Klilinux Virtual Machine, run the command "ifconfig" in the Terminal Emulator on the Kali linux VM.
-<img src="https://imgur.com/vY0TufN.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
-<br/>
-<br/>
-To get the ip address of the Windows 10 VM and Windows Server, run the command "ipconfig" in the Command prompt terminal on the respective machines.
-<br/>
-<img src="https://imgur.com/snTV5Aj.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
-<img src="https://imgur.com/kL0YA3p.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
-<br/>
-<br/>
-
-To ensure the systems are connected, ping every other system from each machine;
-- Ping the Windows 10 VM and Windows 2022 server from the Kali VM
-<img src="https://imgur.com/wamTYSL.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
-
-- Ping the Kali VM and Window 10 VM from the Windows 2022 server 
-<img src="https://imgur.com/JKZj9bx.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
-
-- Ping the Kali VM and Windows 2022 server from the Windows 10 VM 
-<img src="https://imgur.com/Rdi7kPo.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
