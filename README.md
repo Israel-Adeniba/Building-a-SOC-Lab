@@ -173,6 +173,25 @@ Ubuntu Linux is Running:  <br/>
 <br />
 <br />
 
+To ensure our Ubuntu Linux system has the most up-to-date knowledge of what software packages are available in the repositories, we run "sudo apt update" in the command prompt.
+<img src="https://imgur.com/FgjPKdi.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+<img src="https://imgur.com/hSdaI0Q.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+run "sudo apt install bzip2 tar gcc make prl git" in the command prompt  <br/>
+<img src="https://i.imgur.com/IoQc9OP.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+run "sudo apt install linux-headers-generic" in the command prompt  <br/>
+<img src="https://i.imgur.com/PNs26g7.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+run "sudo apt install linux-headers $(uname -r)" in the command prompt  <br/>
+<img src="https://i.imgur.com/URRYbOJ.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
 
 
 
