@@ -193,6 +193,26 @@ run "sudo apt install linux-headers $(uname -r)" in the command prompt  <br/>
 <br />
 <br />
 
+Lets ensure we have git installed so we can clone the actual lab repository <br/>
+<img src="https://i.imgur.com/cKf9z4s.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+We need to clone documents from the course repository to our Ubuntu VM and confirm <br/>
+<img src="https://i.imgur.com/mjkC8uJ.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+We need to extract the course files from the SOC101_Free folder <br/>
+Open a folder > Open Documents > Open SOC101_Free > Open Course_Files 
+<img src="https://i.imgur.com/idhSCMh.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/na82ipK.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/9uIBkWi.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+
+
 
 
 
