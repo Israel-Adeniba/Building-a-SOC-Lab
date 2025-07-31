@@ -202,7 +202,7 @@ We need to clone documents from the course repository to our Ubuntu VM and confi
 <br />
 <br />
 We need to extract the course files from the SOC101_Free folder <br/>
-Open a folder > Open Documents > Open SOC101_Free > Open Course_Files 
+Open a folder > Open Documents > Open SOC101_Free > Open Course_Files <br/>
 <img src="https://i.imgur.com/idhSCMh.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
@@ -211,6 +211,38 @@ Open a folder > Open Documents > Open SOC101_Free > Open Course_Files
 <br />
 <img src="https://i.imgur.com/9uIBkWi.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
+<br />
+Extract files and move the course files to the Desktop <br/>
+<img src="https://i.imgur.com/b5yAosD.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/Q6bkaPy.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+We need to install neessary dependencies and update the list of package in the install scripts <br/>
+Head over to the documents folder > Go to the SOC101_Free folder > Go to resources > Go to install
+<img src="https://i.imgur.com/WzOdbrj.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+To make the install.sh script executable, we run the change mode command "chmod +x ./install.sh" then install  using the "./install.sh" command <br/>
+<img src="https://i.imgur.com/NhWKXoU.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+We will get a complete installation confirmation <br/>
+<img src="https://i.imgur.com/0pRQAtF.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
