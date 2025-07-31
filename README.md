@@ -233,12 +233,10 @@ We will get a complete installation confirmation <br/>
 
 
 
-
-
-
-
-
-
+<h2>Phase 3: Connect the Virtual Network </h2>
+Ntworking configuration that'll allow the two machines talk to each other <br/>
+<br />
+<br />
 
 
 
