@@ -271,6 +271,18 @@ Select the Ubuntu Linux VM > Click settings > Nework > Select "NAT Network" > Se
 <br />
 <br />
 
+
+Confirm IP address on the VMs (SOC101) <br 
+Get IP address of the Windows VM (SOC101) <br />          
+<img src="https://i.imgur.com/wEZwLyF.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+Get IP address of the Windows VM (SOC101) <br />          
+<img src="https://i.imgur.com/LJovXmm.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+
+
 <br />
 
 
