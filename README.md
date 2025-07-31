@@ -242,11 +242,14 @@ Open Oracle Virtual box > click the tool menu > Select Network > Select NAT Netw
 <img src="https://i.imgur.com/P3vkq6A.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
-
 Rename  > Set the IPV4 prefix which is the network range  > Select "Enable DHCP" > Click "Apply"
-<img src="https://i.imgur.com/WzOdbrj.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<img src="https://i.imgur.com/EPa181a.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
+<img src="https://i.imgur.com/K5giade.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+
 
 
 
