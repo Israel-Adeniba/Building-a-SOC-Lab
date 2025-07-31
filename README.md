@@ -282,7 +282,7 @@ Get IP address of the Winodws VM (SOC101) <br />
 <br />
 <br />
 
-Confirm IP addresses of the two VMs to confirm established communications <br 
+Confirm IP addresses of the two VMs to confirm established communications <br />
 Ping IP address 10.2.0.15 of the Ubuntu Linux VM frOm the Windows VM <br />          
 <img src="https://i.imgur.com/ZtldbqEPING.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
