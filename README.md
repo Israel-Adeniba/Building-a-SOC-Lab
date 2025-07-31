@@ -234,9 +234,35 @@ We will get a complete installation confirmation <br/>
 
 
 <h2>Phase 3: Connect the Virtual Network </h2>
-Ntworking configuration that'll allow the two machines talk to each other <br/>
+We need to configure the network to enable the two VMs (Windows and Ubuntu Linux) talk to each other. We need to create a ntwork and apply same network to network adapters of our VMs <br/>
+Open Oracle Virtual box > click the tool menu > Select Network > Select NAT Networks > Create a new network  <br/>
+<img src="https://i.imgur.com/lSYt75Z.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
+<img src="https://i.imgur.com/P3vkq6A.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+
+Rename  > Set the IPV4 prefix which is the network range  > Select "Enable DHCP" > Click "Apply"
+<img src="https://i.imgur.com/WzOdbrj.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
