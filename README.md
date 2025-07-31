@@ -249,8 +249,10 @@ Rename  > Set the IPV4 prefix which is the network range  > Select "Enable DHCP"
 <img src="https://i.imgur.com/K5giade.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
+
+
 Connect the VMs to the Newly created network (SOC101) <br />
-Select the Windows VM > Click settings > Nework > Select "NAT Network" > Select the network name > Click OK  <br />
+Select the Windows VM > Click settings > Nework > Select "NAT Network" > Select the network name "SOC101" > Click OK  <br />
 <br />
 <br />
 <img src="https://i.imgur.com/YVPcHV0.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
@@ -259,9 +261,15 @@ Select the Windows VM > Click settings > Nework > Select "NAT Network" > Select 
 <img src="https://i.imgur.com/B9t3ox7.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
-
-
-
+Select the Ubuntu Linux VM > Click settings > Nework > Select "NAT Network" > Select the network name "SOC101" > Click OK  <br />
+<br />
+<br />
+<img src="https://i.imgur.com/WvK3OOP.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/uJHAxS0.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
 
 <br />
 
